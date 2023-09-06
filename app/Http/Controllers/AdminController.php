@@ -14,6 +14,7 @@ class AdminController extends Controller
 {
     // user name = admin
     // password = admin =Hash-> $2y$10$qlOiXATp7I0vf0k8vq9o/uVm3K/.Uvhb7FPL5cQdTF/KcJFCGVJQ2
+
     public function AdminLogin(Request $request)
     {
         
